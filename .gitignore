@@ -1,0 +1,8 @@
+syntax: glob
+
+.DS_Store
+*.pyc
+pip-log.txt
+build/*
+dist/*
+*.egg-info/*
